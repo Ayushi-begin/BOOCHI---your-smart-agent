@@ -1,0 +1,7 @@
+openwakeword
+pyaudio
+faster-whisper
+pyautogui
+ollama
+numpy
+pyttsx3
